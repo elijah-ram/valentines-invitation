@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Virtual Movie Night Invitation</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            background-color: #f8f8f8;
+            margin: 20px;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            color: #e74c3c;
+        }
+
+        p {
+            color: #333333;
+        }
+
+        a {
+            display: inline-block;
+            padding: 10px 20px;
+            margin-top: 20px;
+            background-color: #e74c3c;
+            color: #ffffff;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+
+        a:hover {
+            background-color: #c0392b;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Virtual Movie Night Invitation</h1>
+        <p>Hey [Your Girlfriend's Name],</p>
+        <p>Join me for a special virtual movie night this Valentine's Day!</p>
+        <p>I've picked a romantic movie that I think we'll both enjoy, and I can't wait to share this experience with you.</p>
+        <p>Let's make it a memorable evening filled with laughter, love, and a great movie!</p>
+        <a href="[Link to Virtual Movie]" target="_blank">RSVP and Join the Virtual Movie Night</a>
+        <p>Looking forward to our virtual date night!</p>
+        <p>With love,</p>
+        <p>[Your Name]</p>
+    </div>
+
+</body>
+</html>
